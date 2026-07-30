@@ -48,6 +48,7 @@ Place href to peach cobbler recipe into image of peach cobbler
 <li> Reformatt recipe links to be accessible from both image titles and images</li>
 </ul></p>
 
+<p> To Sides and Index</p>
 <ul><p>
 <li>Add family jpg on index</li>
 <li> Remove 'tie on an apron' paragraph from index</li>
