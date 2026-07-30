@@ -36,4 +36,23 @@ Place href to peach cobbler recipe into image of peach cobbler
 <li> Add verbiage to Entrees page</li>
 <li> Create link from index to Entrees</li>
 
+<p>To Entrees page</p>
+<p><ul>
+<li>Add pork chop and fried chicken recipe links</li>
+<li>Add pork chop and fired chicken images</li>
+</ul>
+</p>
+<p> To Desserts page</p>
+<p><ul>
+<li>Remove breaks from blurb</li>
+<li> Reformatt recipe links to be accessible from both image titles and images</li>
+</ul></p>
+
+<ul><p>
+<li>Add family jpg on index</li>
+<li> Remove 'tie on an apron' paragraph from index</li>
+<li> Add corn pudding recipe and image with links to sides page</li>
+<li> Add mashed potatoe recipe and image with links to sides page</li>
+
+
 
