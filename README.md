@@ -24,3 +24,16 @@ image: Copyright: Easy-Peasy AI - AI Image Generator, Credit: Easy-Peasy AI
 
 Place href to peach cobbler recipe into image of peach cobbler
 
+<ul>
+<li>Add image of pecann pie </li>
+<li>Add link to pdf recipe for pecan pie on top of image </li>
+<li>Adjust dimensions of pecan pie image</li>
+<li>Add h3 for Pecan Pie</li>
+<li> Add link from index to desserts pag</li>
+</ul>
+
+<p><ul>
+<li> Add verbiage to Entrees page</li>
+<li> Create link from index to Entrees</li>
+
+
